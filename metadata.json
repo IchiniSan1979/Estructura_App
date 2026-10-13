@@ -1,0 +1,6 @@
+{
+  "name": "Anatomía de una App - ¿Cómo está compuesta una aplicación?",
+  "description": "Guía interactiva y visual sobre la arquitectura, capas y componentes de una aplicación moderna: Frontend, Backend, Base de Datos y flujo de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
